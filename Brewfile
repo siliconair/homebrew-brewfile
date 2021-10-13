@@ -31,6 +31,7 @@ cask "syncthing"
 cask "texpad"
 cask "tor-browser"
 cask "transmission"
+cask "trezor-bridge"
 cask "visual-studio-code"
 cask "vlc"
 mas "1Password", id: 443987910
