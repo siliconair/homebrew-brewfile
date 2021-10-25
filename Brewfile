@@ -38,6 +38,7 @@ cask "vlc"
 mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
+mas "Disk Speed Test", id: 425264550
 mas "iA Writer", id: 775737590
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
