@@ -47,6 +47,7 @@ mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 880001334
 mas "Simplenote", id: 692867256
+mas "Subnet 64", id: 1348388159
 mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
 mas "Theine", id: 955848755
