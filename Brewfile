@@ -10,7 +10,6 @@ brew "git"
 brew "jupyterlab"
 brew "libcsv"
 brew "mas"
-brew "netlify-cli"
 brew "speedtest-cli"
 brew "wget"
 brew "ykman"
@@ -43,6 +42,7 @@ mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
 mas "Disk Speed Test", id: 425264550
 mas "iA Writer", id: 775737590
+mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
 mas "PhotoSync Companion", id: 418818452
