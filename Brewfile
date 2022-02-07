@@ -36,6 +36,7 @@ cask "trezor-suite"
 cask "utm"
 cask "visual-studio-code"
 cask "vlc"
+cask "zotero"
 mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
