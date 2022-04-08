@@ -46,6 +46,7 @@ mas "iA Writer", id: 775737590
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
 mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 880001334
