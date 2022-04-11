@@ -41,6 +41,7 @@ cask "zotero"
 mas "1Password", id: 443987910
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
+mas "Delay-Start", id: 591620786
 mas "Disk Speed Test", id: 425264550
 mas "iA Writer", id: 775737590
 mas "iWriter Pro", id: 893199093
