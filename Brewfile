@@ -48,6 +48,7 @@ mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
 mas "Delay-Start", id: 591620786
 mas "Disk Speed Test", id: 425264550
+mas "GoodNotes", id: 1444383602
 mas "iA Writer", id: 775737590
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
