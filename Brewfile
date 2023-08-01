@@ -58,7 +58,7 @@ mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
-mas "Reeder", id: 880001334
+mas "Reeder 5", id: 1529448980
 mas "Simplenote", id: 692867256
 mas "Table Tool", id: 1122008420
 mas "Tailscale", id: 1475387142
