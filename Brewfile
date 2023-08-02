@@ -18,7 +18,6 @@ cask "appcleaner"
 cask "anki"
 cask "balenaetcher"
 cask "bartender"
-cask "bitwarden"
 cask "cryptomator"
 cask "deepl"
 cask "disk-inventory-x"
@@ -47,6 +46,7 @@ cask "trezor-suite"
 cask "vscodium"
 cask "vlc"
 mas "1Password", id: 443987910
+mas "Bitwarden", id: 1352778147
 mas "Brother P-touch Editor", id: 1453365242
 mas "ChronoSync Express", id: 904801687
 mas "Disk Speed Test", id: 425264550
