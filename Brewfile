@@ -43,6 +43,7 @@ cask "transmission"
 cask "trezor-suite"
 cask "vscodium"
 cask "vlc"
+cask "yubico-authenticator"
 cask "yubico-yubikey-manager"
 mas "Bitwarden", id: 1352778147
 mas "Brother P-touch Editor", id: 1453365242
