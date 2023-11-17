@@ -18,23 +18,19 @@ cask "alfred"
 cask "appcleaner"
 cask "anki"
 cask "balenaetcher"
+cask "bitwarden"
 cask "deepl"
 cask "disk-inventory-x"
 cask "eloston-chromium"
 cask "firefox"
-cask "fission"
-cask "gpg-suite-no-mail"
-cask "imageoptim"
-cask "iterm2"
 cask "izotope-product-portal"
 cask "keepassxc"
 cask "macfuse"
 cask "multipass"
 cask "obsidian"
-﻿cask "protonvpn"
+cask "protonvpn"
 cask "raspberry-pi-imager"
 cask "rustdesk"
-cask "fujitsu-scansnap-home"
 cask "signal"
 cask "silentknight"
 cask "soundsource"
@@ -48,13 +44,11 @@ cask "trezor-suite"
 cask "vscodium"
 cask "vlc"
 cask "yubico-authenticator"
-cask "yubico-yubikey-manager"
-mas "Bitwarden", id: 1352778147
 mas "Brother P-touch Editor", id: 1453365242
-mas "ChronoSync Express", id: 904801687
 mas "Disk Speed Test", id: 425264550
 mas "GoodNotes", id: 1444383602
 mas "iA Writer", id: 775737590
+mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
