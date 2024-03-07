@@ -30,7 +30,6 @@ cask "tor-browser"
 cask "transmission"
 cask "trezor-suite"
 cask "vscodium"
-cask "vlc"
 cask "yubico-authenticator"
 mas "Brother P-touch Editor", id: 1453365242
 mas "Invoice Ninja", id: 1503970375
