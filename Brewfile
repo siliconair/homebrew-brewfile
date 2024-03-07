@@ -12,28 +12,20 @@ brew "hugo"
 brew "mas"
 brew "ocrmypdf"
 brew "pandoc"
-brew "testdisk"
-brew "ttygif"
 brew "wget"
 brew "yt-dlp"
 cask "balenaetcher"
 cask "bitwarden"
-cask "deepl"
-cask "disk-inventory-x"
 cask "eloston-chromium"
 cask "firefox"
 cask "keepassxc"
 cask "macfuse"
-cask "multipass"
 cask "obsidian"
 cask "protonvpn"
 cask "raspberry-pi-imager"
-cask "rustdesk"
 cask "signal"
-cask "silentknight"
 cask "syncthing"
 cask "synologyassistant"
-cask "texifier"
 cask "tor-browser"
 cask "transmission"
 cask "trezor-suite"
@@ -41,9 +33,6 @@ cask "vscodium"
 cask "vlc"
 cask "yubico-authenticator"
 mas "Brother P-touch Editor", id: 1453365242
-mas "Disk Speed Test", id: 425264550
-mas "GoodNotes", id: 1444383602
-mas "iA Writer", id: 775737590
 mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
