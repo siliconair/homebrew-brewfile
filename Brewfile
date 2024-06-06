@@ -15,7 +15,6 @@ brew "pandoc"
 brew "wget"
 brew "yt-dlp"
 cask "balenaetcher"
-cask "bitwarden"
 cask "chatgpt"
 cask "eloston-chromium"
 cask "firefox"
@@ -33,6 +32,7 @@ cask "transmission"
 cask "trezor-suite"
 cask "vscodium"
 cask "yubico-authenticator"
+mas "Bitwarden", id: 1352778147
 mas "Brother P-touch Editor", id: 1453365242
 mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
