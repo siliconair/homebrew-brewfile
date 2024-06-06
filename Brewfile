@@ -1,7 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/services"
 brew "bottom"
-brew "coreutils"
 brew "curl"
 brew "exiftool"
 brew "ffmpeg"
