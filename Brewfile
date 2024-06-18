@@ -38,6 +38,7 @@ mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
+mas "Pastebot", id: 1179623856
 mas "PhotoSync Companion", id: 418818452
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder 5", id: 1529448980
