@@ -29,6 +29,7 @@ cask "synologyassistant"
 cask "tor-browser"
 cask "transmission"
 cask "trezor-suite"
+cask "tuta-mail"
 cask "vscodium"
 cask "yubico-authenticator"
 mas "Bitwarden", id: 1352778147
