@@ -38,7 +38,6 @@ mas "Brother P-touch Editor", id: 1453365242
 mas "Invoice Ninja", id: 1503970375
 mas "iWriter Pro", id: 893199093
 mas "LanScan", id: 472226235
-mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pastebot", id: 1179623856
 mas "PDF Squeezer 4", id: 1502111349
